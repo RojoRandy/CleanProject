@@ -10,8 +10,8 @@ cd CleanProject
 ## CONFIGURACIÓN DE APLICACIÓN
 
 1. Instalar y configurar [dotenv](https://www.npmjs.com/package/dotenv) para definir variables de entorno, como especificación de Puertos, Conexiones a Base de datos, etc.
-2. Instalar y configurar [Express Framework][https://expressjs.com/es/starter/installing.html] para el servidor REST y definir endpoints
-3. Instalar y configurar [nodemon][https://www.npmjs.com/package/nodemon] para escuchar cambios de los archivos.
+2. Instalar y configurar [Express Framework](https://expressjs.com/es/starter/installing.html) para el servidor REST y definir endpoints
+3. Instalar y configurar [nodemon](https://www.npmjs.com/package/nodemon) para escuchar cambios de los archivos.
 
 ## ACTIVIDADES
 
