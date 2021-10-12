@@ -1,7 +1,5 @@
 //import server configurations
 
-
-
 //Start the server
 const start = async ()=>{
 
